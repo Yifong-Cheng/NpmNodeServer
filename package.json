@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yifong-Cheng/NpmNodeServer"
+    "url": "https://github.com/Yifong-Cheng/NpmNodeServer.git"
   },
   "dependencies": {
     "express": "^4.17.1",
